@@ -1,0 +1,9 @@
+primary-button{
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 54px;
+    background: var(--primary, #3693EA);    
+}
